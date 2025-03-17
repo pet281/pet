@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    background-color:forestgreen;
+}
+nav a{
+    border:3px solid darkslategray(39, 3, 3);
+    text-decoration: none;
+    padding:10px;
+    margin:20px;
+    background-color:rgba(165, 42, 42, 0.74);
+    color:lightcyan;
+}
+nav{
+  display:flex;
+  justify-content: center;
+}
+img{
+    border:5px solid rgba(165, 42, 42, 0.74);
+    padding:1%;
+}div img{
+    margin:10px;
+}
+iframe{
+    border:5px solid rgba(165, 42, 42, 0.74);
+    padding:1%;
+}
+a{
+    border:3px solid rgba(165, 42, 42, 0.74);
+    box-shadow:2px 2px 5px 0 saddlebrown;
+}
